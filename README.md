@@ -4,7 +4,7 @@
 It prioritizes safer routes using **K-Means clustering** on crime data to ensure a secure journey.
 
 ---
-
+![Homepage](https://github.com/lokeshkolapati/StreeRakshak/blob/main/Stree%20rakshak.png)
 ## 🛠 Tech Stack
 
 **Frontend:**
@@ -22,6 +22,8 @@ It prioritizes safer routes using **K-Means clustering** on crime data to ensure
 - Scikit-learn (K-Means Clustering)
 
 ---
+## Screen shots
+![main page](https://github.com/lokeshkolapati/StreeRakshak/blob/main/1.png)
 
 ## 📊 How It Works
 
@@ -38,7 +40,7 @@ It prioritizes safer routes using **K-Means clustering** on crime data to ensure
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/Stree-Rakshak.git
+git clone https://github.com/lokeshkolapati/StreeRakshak
 cd Stree-Rakshak
 ```
 ### 2️⃣ Clone Repository
